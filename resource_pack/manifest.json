@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§8Never miss diamond or any other ore while mining again. A simple texture pack to make ores more visible.\n§l§cNot an X-Ray Pack",
+        "name": "§b§lEasy Ores§r§8By Mr. Moose",
+        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 20, 10 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "743f6949-53be-44b6-b326-398005028819",
+            "version": [0, 0, 1]
+        }
+    ]
+}
